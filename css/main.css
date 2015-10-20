@@ -2,3 +2,29 @@
 #container {
 	height:800px;
 }
+
+h1 {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+	color: grey;
+	font-size: 20px;
+}
+
+span {
+	font-weight: 900;
+}
+
+#hit {
+	color: black;
+}
+
+#killed {
+	color: red;
+}
+
+#infoTable {
+	width: 100%;
+}
